@@ -1,0 +1,13 @@
+package com.praveen.employee_attendance_tracker;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EmployeeAttendanceTrackerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EmployeeAttendanceTrackerApplication.class, args);
+	}
+
+}
